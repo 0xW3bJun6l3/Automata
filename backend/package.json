@@ -1,0 +1,19 @@
+{
+  "name": "automata-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xW3bJun6l3/Automata.git"
+  },
+  "author": "0xW3bJun6l3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xW3bJun6l3/Automata/issues"
+  },
+  "homepage": "https://github.com/0xW3bJun6l3/Automata#readme"
+}
